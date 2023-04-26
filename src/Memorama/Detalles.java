@@ -6,9 +6,9 @@
  * Autor: Tineo Tineo Reyder Javier    *                 
  * Fecha Creación: 25/04/23            *                 
  * Fecha Actualización: 26/04/23       *                 
- * Descripción: Se creo en jFrame la   *
+ * Descripción: Se creo en JFrame la   *
  *              ventana de detalles del* 
- *              proyecto memorama      * 
+ *              proyecto del memorama  * 
  **************************************/
 package Memorama;
 

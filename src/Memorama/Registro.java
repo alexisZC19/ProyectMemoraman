@@ -2,12 +2,21 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
+/***************************************
+ * Autor: Tineo Tineo Reyder Javier    *                 
+ * Fecha Creación: 25/04/23            *                 
+ * Fecha Actualización: 26/04/23       *                 
+ * Descripción: Se creo en JFrame la   *
+ *              ventana de registro del* 
+ *              proyecto del memorama  * 
+ **************************************/
 package Memorama;
 
 /**
  *
  * @author labdessw07
  */
+
 public class Registro extends javax.swing.JFrame {
 
     /**
