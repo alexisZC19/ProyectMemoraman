@@ -5,7 +5,7 @@
  * Descripcion:esta es las instruciones 
  * 
  */
-package Ventanas;
+package Memorama;
 
 /**
  *

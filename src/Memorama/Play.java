@@ -5,7 +5,7 @@
  * Descripcion:esta es la pantalla del juego
  * 
  */
-package Ventanas;
+package Memorama;
 
 /**
  *
